@@ -1,0 +1,16 @@
+# Access databases
+*.accdb
+*.mdb
+*.laccdb
+
+# Backups
+Archive/
+*.bak
+
+# Temp
+/temp/
+/tmp/
+
+# OS junk
+Thumbs.db
+.DS_Store
